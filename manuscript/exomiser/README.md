@@ -1,4 +1,12 @@
 ## Running Exomiser and Genomiser
+
+Detailed explanations of the parameters selected and cohort-level run scripts can be found alongside our previous publication:
+*An optimized variant prioritization process for rare disease diagnostics: recommendations for Exomiser and Genomiser*
+[https://doi.org/10.1186/s13073-025-01546-1]( https://doi.org/10.1186/s13073-025-01546-1)
+
+and its assoicated GitHub repository:
+[https://github.com/icooperstein/exomiser_optimization](https://github.com/icooperstein/exomiser_optimization)
+
 ### Installation
 Installation instructions and instructions to run Exomiser and Genomiser can be found in their documentation: https://exomiser.readthedocs.io/en/latest/running.html
 ### Filtering VCFs
@@ -25,4 +33,3 @@ Necessary files to run Exomiser as a slurm job:
     - [submit_exomiser.sh](submit_exomiser.sh) \
 Linux bash command: ```sbatch submit_exomiser.sh ID run_type``` \
 Replace "ID" with your sample ID and "run_type" with naming convention you have named your YML files
-* [Create cohort-level YAML and execution files](analyses/create_multiple_exomiser_run_scripts.py)
