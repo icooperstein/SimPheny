@@ -41,9 +41,9 @@ print(len(set(removed_terms)))
 for term in set(removed_terms):
     print(Ontology.get_hpo_object(term))
 
-phenotype_data['Pruned_Terms'] = no_prenatal
+phenotype_data['Curated_Terms'] = no_prenatal
 phenotype_data['Status'] = changed_status
 
 
 ## save file
-phenotype_data.to_csv('pruned_terms.csv', index=None)
+phenotype_data.to_csv('curated_terms.csv', index=None)
