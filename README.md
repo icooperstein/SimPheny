@@ -413,9 +413,9 @@ Without a seed, repeated analyses can produce slightly different empirical p-val
 
 If you use SimPheny in published work, please cite:
 
-> Cooperstein IB, et al. *[SimPheny manuscript citation to be added upon publication]*.
+> Cooperstein IB, Ward A, Kobren SN, Lebleu E, Moore B, Spillmann RC, Shashi V; Undiagnosed Diseases Network; Marth GT. Phenotype-first patient matching with SimPheny identifies diagnostic candidates beyond curated gene associations. medRxiv [Preprint]. 2026 Jan 17:2026.01.15.26344236. doi: 10.64898/2026.01.15.26344236. PMID: 41646677; PMCID: PMC12870595.
 
-The complete citation will be added following publication.
+An updated citation will be added following publication.
 
 ---
 
