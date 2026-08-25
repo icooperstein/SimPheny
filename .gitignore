@@ -1,0 +1,15 @@
+# Restricted reference data — DO NOT COMMIT
+reference_data/udn/reference.tsv
+reference_data/udn/phenotype_background.tsv
+reference_data/decipher/reference.tsv
+tests/UDN289451.tsv
+tests/two_pt_test.tsv
+
+# Local outputs
+results/
+simpheny_output/
+
+# Python / OS junk
+__pycache__/
+*.pyc
+.DS_Store
