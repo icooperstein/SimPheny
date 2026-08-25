@@ -1,0 +1,15 @@
+{
+  "query_id": "UDN289451",
+  "references": [
+    "udn"
+  ],
+  "iterations": 10000,
+  "matches_per_reference": {
+    "udn": 5
+  },
+  "total_matches": 5,
+  "matched_candidate_genes": 2,
+  "restricted_reference_ids_masked": true,
+  "elapsed_seconds": 450.2827032539062,
+  "output_directory": "results/UDN289451_udn_20260824_173233"
+}

@@ -1,0 +1,22 @@
+{
+  "query_file": "tests/UDN289451.tsv",
+  "query_ids": [
+    "UDN289451"
+  ],
+  "num_query_patients": 1,
+  "references": [
+    "udn"
+  ],
+  "iterations": 10000,
+  "matches_per_query": {
+    "UDN289451": 5
+  },
+  "matches_per_reference": {
+    "udn": 5
+  },
+  "total_matches": 5,
+  "total_ranked_query_gene_pairs": 2,
+  "restricted_reference_ids_masked": true,
+  "elapsed_seconds": 502.5662852800451,
+  "output_directory": "results/UDN289451_udn_20260824_174243"
+}

@@ -1,0 +1,3 @@
+Query_ID	Candidate_Rank	Gene_Hit	SimPheny_Gene_Score	Num_Reference_Matches	Best_SimPheny_Score	Best_Reference_Source	Best_Reference_ID	Sources
+UDN289451	1	RPL13	6.090833248663479	3	6.358162337611609	udn	UDN_REF_398FCA96AC	udn
+UDN289451	2	RYR1	1.768033921083501	2	2.024341933973198	udn	UDN_REF_2734628DCA	udn

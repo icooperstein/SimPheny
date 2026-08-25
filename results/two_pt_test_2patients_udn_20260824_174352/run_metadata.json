@@ -1,0 +1,24 @@
+{
+  "query_file": "tests/two_pt_test.tsv",
+  "query_ids": [
+    "UDN289451",
+    "UDN0938651"
+  ],
+  "num_query_patients": 2,
+  "references": [
+    "udn"
+  ],
+  "iterations": 10000,
+  "matches_per_query": {
+    "UDN289451": 5,
+    "UDN0938651": 2
+  },
+  "matches_per_reference": {
+    "udn": 7
+  },
+  "total_matches": 7,
+  "total_ranked_query_gene_pairs": 4,
+  "restricted_reference_ids_masked": true,
+  "elapsed_seconds": 615.4833419541828,
+  "output_directory": "results/two_pt_test_2patients_udn_20260824_174352"
+}
