@@ -1,10 +1,10 @@
 ## Running Exomiser and Genomiser
 
-Detailed explanations of the parameters selected and cohort-level run scripts can be found alongside our previous publication:
+Detailed explanations of the parameters selected and cohort-level run scripts can be found alongside our previous publication: \
 *An optimized variant prioritization process for rare disease diagnostics: recommendations for Exomiser and Genomiser*
 [https://doi.org/10.1186/s13073-025-01546-1]( https://doi.org/10.1186/s13073-025-01546-1)
 
-and its assoicated GitHub repository:
+and its assoicated GitHub repository: \
 [https://github.com/icooperstein/exomiser_optimization](https://github.com/icooperstein/exomiser_optimization)
 
 ### Installation
